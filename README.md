@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astromium" alt="astromium" /></a> </p>
 
-- 📝 I regularly write articles on [astromium.hashnode.dev](astromium.hashnode.dev)
+- 📝 I regularly write articles on [hashnode.dev](https://astromium.hashnode.dev/)
 
 - 📫 How to reach me **km_beloudah@gmail.com**
 
